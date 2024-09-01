@@ -13,7 +13,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 + CSS
 + Javascript
 + CMS (Content Mangement System)
-
++ Strapi
 
 ## TASKS
 - Home Page [0/5]
