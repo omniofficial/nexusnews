@@ -14,7 +14,7 @@
 .header{
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(55, 59, 77, 0.7),#131e4bb3),url(/images/header.webp);
+  background-image: linear-gradient(rgba(9, 18, 56, 0.7),#16245fb3),url(/images/awakened.jpg);
   background-size: cover;
   position: relative;
 }
@@ -67,6 +67,6 @@ text-align: center;
 .text-box p{
   margin: 10px 0 40px;
   font-size: 20px;
-  color: white;
+  color: #C89B3C;
 }
 
