@@ -16,10 +16,10 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 + Strapi
 
 ## TASKS
-- Home Page [0/5]
+- Home Page [1/5]
   - Site overview [N]
   - Color theme [N]
-  - Header [N]
+  - Header [Y]
 - About us [0]
 - TBD...
 
