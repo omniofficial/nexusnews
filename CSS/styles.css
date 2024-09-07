@@ -1,72 +1,73 @@
-*{
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
-  list-style: none;
-  box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
 }
-.body{
-  background: #091428;
-  min-height: 100vh;
-  width: 100%;
-  font-family: arial;
+.body {
+    background: #091428;
+    min-height: 100vh;
+    width: 100%;
+    font-family: arial;
 }
-.header{
-  min-height: 100vh;
-  width: 100%;
-  background-image: linear-gradient(rgba(9, 18, 56, 0.7),#16245fb3),url(/images/awakened.jpg);
-  background-size: cover;
-  position: relative;
-}
-
-nav{
-background: #091428;
-height: 80px;
-width: 100%;
-}
-label.logo{
-  color: white;
-  font-size: 35px;
-  line-height: 80px;
-  padding: 0 100px;
-  font-weight: bold;
-}
-nav u1{
-  float: right;
-  margin-right: 20px;
-}
-nav u1 li{
-  display: inline-block;
-  line-height: 80px;
-  margin: 0 5px;
-}
-nav u1 li a{
-  color: white;
-  font-size: 17px;
-  padding: 7px 13px;
-  border-radius: 3px;
-  text-transform: uppercase;
-}
-a.active,a:hover{
-  background: #C89B3C;
-  transition: .5s;
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(9, 18, 56, 0.7), #16245fb3),
+        url(/images/awakened.jpg);
+    background-size: cover;
+    position: relative;
 }
 
-.text-box{
-width: 90%;
-color: white;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-text-align: center;
+nav {
+    background: #091428;
+    height: 80px;
+    width: 100%;
 }
-.text-box h1{
-  font-size: 62px;
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
 }
-.text-box p{
-  margin: 10px 0 40px;
-  font-size: 20px;
-  color: #C89B3C;
+nav u1 {
+    float: right;
+    margin-right: 20px;
+}
+nav u1 li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav u1 li a {
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,
+a:hover {
+    background: #c89b3c;
+    transition: 0.5s;
 }
 
+.text-box {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.text-box h1 {
+    font-size: 62px;
+}
+.text-box p {
+    margin: 10px 0 40px;
+    font-size: 20px;
+    color: #c89b3c;
+}
