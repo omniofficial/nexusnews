@@ -21,7 +21,7 @@
 
 -support
 
-# item selection for jungle
+# item/runes selection for jungle
 **essential**: 
 ![jg item](https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Mosstomper_Seedling_item.png/revision/latest/scale-to-width-down/40?cb=20221020013928) 
 ![item1](https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Liandry%27s_Torment_item.png/revision/latest/scale-to-width-down/40?cb=20201118211533) 
@@ -38,7 +38,9 @@
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Randuin%27s_Omen_item.png/revision/latest/scale-to-width-down/40?cb=20201027213705)
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Unending_Despair_item.png/revision/latest/scale-to-width-down/40?cb=20231207052135)
 
-# item selection for support
+**runes** ![runes](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) or ![runes](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Aftershock_rune.png/revision/latest/scale-to-width-down/52?cb=20180319232450)
+
+# item/runes selection for support
 **essential**: 
 ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Celestial_Opposition_item.png/revision/latest/scale-to-width-down/40?cb=20231122033459) or ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Solstice_Sleigh_item.png/revision/latest/scale-to-width-down/40?cb=20231122033511)
 ![item1](https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Liandry%27s_Torment_item.png/revision/latest/scale-to-width-down/40?cb=20201118211533) 
@@ -54,3 +56,5 @@
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Hollow_Radiance_item.png/revision/latest/scale-to-width-down/40?cb=20231207052019)
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Randuin%27s_Omen_item.png/revision/latest/scale-to-width-down/40?cb=20201027213705)
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Unending_Despair_item.png/revision/latest/scale-to-width-down/40?cb=20231207052135)
+
+**runes** ![runes](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Aftershock_rune.png/revision/latest/scale-to-width-down/52?cb=20180319232450)
