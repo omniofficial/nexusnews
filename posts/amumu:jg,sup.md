@@ -29,8 +29,11 @@
 ![item3](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205) 
 ![item4](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444) 
 
-**optional**: ![shoes](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) 
+**Shoe choices**:
+![shoes](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) 
 ![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) 
+
+**optional**:
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Thornmail_item.png/revision/latest/scale-to-width-down/40?cb=20201029203655) 
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Kaenic_Rookern_item.png/revision/latest/scale-to-width-down/40?cb=20231207052304)
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
