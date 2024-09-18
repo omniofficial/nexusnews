@@ -34,4 +34,4 @@ Here are tips and tricks that can help you make the most out of Alistar’s brut
 -Support
 
 # item/runes selection for support
-**essential**: 
+**essential**: ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Celestial_Opposition_item.png/revision/latest/scale-to-width-down/40?cb=20231122033459) or ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Solstice_Sleigh_item.png/revision/latest/scale-to-width-down/40?cb=20231122033511)
