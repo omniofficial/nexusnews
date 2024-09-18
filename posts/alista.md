@@ -49,3 +49,9 @@ Here are tips and tricks that can help you make the most out of Alistar’s brut
 ![item7](https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Dead_Man%27s_Plate_item.png/revision/latest/scale-to-width-down/40?cb=20201118202946)
 ![item8](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Randuin%27s_Omen_item.png/revision/latest/scale-to-width-down/40?cb=20201027213705)
 ![item9](https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Force_of_Nature_item.png/revision/latest/scale-to-width-down/40?cb=20201118204335)
+
+# Runes:
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Aftershock_rune.png/revision/latest/scale-to-width-down/52?cb=20180319232450) **or**
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Glacial_Augment_rune.png/revision/latest/scale-to-width-down/52?cb=20171126181603) **or**
+![runes3](https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Guardian_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182124) **or**
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Phase_Rush_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182204)
