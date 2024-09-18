@@ -30,3 +30,8 @@ Here are tips and tricks that can help you make the most out of Alistar’s brut
 - If the enemy is near your tower you can cast Q flash and walk behind the enemy champion that is knocked up to W them into your tower, if you aren’t confident that you can Q flash fast enough for the instant knock-up you can flash Q the enemy as the Q animation is short so the enemy, most of the time, won’t have enough time to react
 - Depending on your enemies, yours and your teams position you can use 1 of the 2 combos, W, Q, E, walk around the enemy till full chain completion, AA or W, flash, Q, E, walk, AA. The first combo is for engaging onto an enemy that is in front of you and your team, by doing this you will cc them long enough for your team to kill them. The second combo is used to boop your enemy to your team if the enemy is located in between you and your team. By doing W flash into Q the enemy won’t have a chance to react with a flash after your W
 
+# role selection:
+-Support
+
+# item/runes selection for support
+**essential**: 
