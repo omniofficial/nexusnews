@@ -4,7 +4,7 @@
 **Amumu** is a sad mummy that becomes very popular for most League of Legends players. His individual crowd control or CC, armored stats, and AoE damage capabilities make Amumu perfect for holding down vital champions and launching surprise attacks during team fights.
 
 # Abilities
-- **Passive** ![q]((https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Amumu_Cursed_Touch.png/revision/latest?cb=20210827175455)) **Cursed Touch** 
+- **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Amumu_Cursed_Touch.png/revision/latest?cb=20210827175455) **Cursed Touch** 
 - Amumu’s primary attacks Curse Touch his opponents, bringing them to grasp true bonus damage from the approaching magic damage.
 - **Q** ![q]([https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339) **Bandage Toss**
 - Amumu’s Bandage Toss can throw a sticky bandage at their enemy, damaging and stunning the target while he pulls himself near them.
