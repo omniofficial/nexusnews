@@ -36,6 +36,7 @@ Here are tips and tricks that can help you make the most out of Alistar’s brut
 # item/runes selection for support
 **essential**: ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Celestial_Opposition_item.png/revision/latest/scale-to-width-down/40?cb=20231122033459) or ![sup](https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Solstice_Sleigh_item.png/revision/latest/scale-to-width-down/40?cb=20231122033511)
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Warmog%27s_Armor_item.png/revision/latest/scale-to-width-down/40?cb=20210904172723) ![item](https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Locket_of_the_Iron_Solari_item.png/revision/latest/scale-to-width-down/40?cb=20201104203301)
+
 **optional**: ![shoes](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) 
 ![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) 
 ![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
