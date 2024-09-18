@@ -4,7 +4,7 @@ The tank class in League of Legends online battle consists of strong melee champ
 
 # Abilities
 - **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Alistar_Triumphant_Roar.png/revision/latest?cb=20240906060904) **Triumphant Roar** 
-- Amumu’s primary attacks Curse Touch his opponents, bringing them to grasp true bonus damage from the approaching magic damage.
+- This active attack lets Alistar gain a stack of “Triumph” whenever he CC’s one enemy with any of his abilities. Every time a little monster or enemy minion dies near him, he’ll gain one stack. When reaching seven stacks, Alistar will consume them all and roar, healing himself around 25 to 161 hp, depending on his levels, including all surrounding allies for double the amount. Plus, Alistar can roar instantly if a nearby champion or epic monster dies.
 - **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Alistar_Pulverize.png/revision/latest?cb=20240906060746) **Pulverize**
 - Alistar smashes the ground under him, knocking up enemies nearby, and deals 60 to 240 magic damage to all opponents within the area while tossing them into the air—stunning enemies for 1 second.
 - **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Alistar_Headbutt.png/revision/latest?cb=20240906060715) **Headbutt**
