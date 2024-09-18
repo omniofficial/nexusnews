@@ -6,7 +6,7 @@
 # Abilities
 - **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Amumu_Cursed_Touch.png/revision/latest?cb=20210827175455) **Cursed Touch** 
 - Amumu’s primary attacks Curse Touch his opponents, bringing them to grasp true bonus damage from the approaching magic damage.
-- **Q** ![q]([https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339) **Bandage Toss**
+- **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339) **Bandage Toss**
 - Amumu’s Bandage Toss can throw a sticky bandage at their enemy, damaging and stunning the target while he pulls himself near them.
 - **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Amumu_Despair.png/revision/latest?cb=20210827175532) **Despair**
 - Overcoming agony, closer opponents lose a percentage of Amumu’s max health every second and have the effect of Cursed Touch refreshed.
