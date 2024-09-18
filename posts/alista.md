@@ -4,5 +4,4 @@ The tank class in League of Legends online battle consists of strong melee champ
 
 # Abilities
 - ![q](https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Alistar_Triumphant_Roar.png/revision/latest?cb=20240906060904) **Passive** **Triumphant Roar**
-- 
-This active attack lets Alistar gain a stack of “Triumph” whenever he CC’s one enemy with any of his abilities. Every time a little monster or enemy minion dies near him, he’ll gain one stack. When reaching seven stacks, Alistar will consume them all and roar, healing himself around 25 to 161 hp, depending on his levels, including all surrounding allies for double the amount. Plus, Alistar can roar instantly if a nearby champion or epic monster dies.
+- This active attack lets Alistar gain a stack of “Triumph” whenever he CC’s one enemy with any of his abilities. Every time a little monster or enemy minion dies near him, he’ll gain one stack. When reaching seven stacks, Alistar will consume them all and roar, healing himself around 25 to 161 hp, depending on his levels, including all surrounding allies for double the amount. Plus, Alistar can roar instantly if a nearby champion or epic monster dies.
