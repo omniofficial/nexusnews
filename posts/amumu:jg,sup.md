@@ -65,3 +65,4 @@
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Unending_Despair_item.png/revision/latest/scale-to-width-down/40?cb=20231207052135)
 
 **runes** ![runes](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Aftershock_rune.png/revision/latest/scale-to-width-down/52?cb=20180319232450)
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Glacial_Augment_rune.png/revision/latest/scale-to-width-down/52?cb=20171126181603)
