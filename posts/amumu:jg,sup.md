@@ -32,6 +32,7 @@
 **Shoe choices**:
 ![shoes](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) 
 ![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) 
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Sorcerer%27s_Shoes_item.png/revision/latest/scale-to-width-down/40?cb=20201118210136)
 
 **optional**:
 ![item](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Thornmail_item.png/revision/latest/scale-to-width-down/40?cb=20201029203655) 
