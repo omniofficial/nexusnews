@@ -1,1 +1,3 @@
 # Annie ![annie](https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Annie_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150404100758)
+
+Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child of League of Legends. With her fiery disposition and a teddy bear that’s more than meets the eye, Annie has both charmed and terrorized the Rift in equal measure. Whether you’re a seasoned mid-laner or a newcomer eager to understand more, we’ve got the scoop on everything Annie. So, let’s get started and explore the blazing trails of this enigmatic champion!
