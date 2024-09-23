@@ -13,3 +13,14 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 - Grants Annie or an ally a shield, a burst of Move Speed, and damages enemies who strike her with attacks or spells.
 - **R** ![r](https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Annie_Summon-_Tibbers.png/revision/latest?cb=20240810171642) **Summon: Tibbers**
 - Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him.
+
+# TIPS AND TRICKS
+
+- Storing a stun stun for use with her ultimate ultimate can turn the tide of a team fight.
+- Striking killing blows on minions with Disintegrate Disintegrate enables Annie to farm extremely well early in the game.
+- Molten Shield Molten Shield is a good spell to cast to work up to Annie's stun stun, so sometimes it's beneficial to grab 1 rank in it early.
+- Disintegrate Disintegrate is extremely useful in lane. Even at low ranks, its cooldown is extremely short if it kills its target. Along with the mana refund, this makes it an excellent farming tool. This also allows Annie to build up her stun stun quickly and freely as long as every cast of Disintegrate Disintegrate kills something.
+- Disintegrate Disintegrate is a good choice to max first in a lot of situations. A higher-level Disintegrate Disintegrate means more reliable farming and increased damage on a targeted ability, while only increasing its mana cost by 5 per rank, which can be almost entirely negated by the mana refund on kill.
+- Incinerate Incinerate should be taken at first level instead of Disintegrate Disintegrate if you need a stun at level 1 or if you're playing support. The main reason is that it can be cast without a target, meaning that Annie can build up her stun stun in base to negate the mana cost.
+- While a maxed Incinerate Incinerate deals more damage than a maxed Disintegrate Disintegrate, this comes with a higher mana cost and cooldown, as well as less reliable farming. However, against enemies who can block Disintegrate Disintegrate, such as Yasuo, Incinerate Incinerate can be maxed first for more poke, given that it bypasses Yasuo's Wind Wall Wind Wall.
+
