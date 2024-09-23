@@ -19,10 +19,31 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 ## Y = Yes, N = No, IP = In-Progress
 
 -   Home Page [2/5]
-    -   Site overview [N]
+
+    -   Site overview [Y]
+        -   Button [IP]
     -   Color theme [Y]
     -   Header [Y]
+    -   Fonts [IP]
     -   Functional Global Header [IP]
-    -   FAQ [IP]
+    -   eSports Section [N]
+    -   Personalized Guides [N]
+    -   Popular Content [N]
+    -   FAQ [N]
+    -   Functional Global Footer [N]
+
+-   Blog
+
+    -   Strapi [IP]
+    -   Page Layout
+    -   Universal Search / Filter Bar
+
+-   eSports
+    -   Strapi [IP]
+    -   Page Layout
+    -   Universal Search / Filter Bar
+-   Guides
+    -   Strapi [IP]
+    -   Page Layout
+    -   Universal Search / Filter Bar
 -   About us [0]
--   TBD...

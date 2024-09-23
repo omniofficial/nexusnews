@@ -9,7 +9,7 @@ body {
     background: #1c1a24;
     min-height: 100vh;
     width: 100%;
-    font-family: "Monserrat", Verdana, sans-serif;
+    font-family: "FF Mark W05", Arial, sans-serif;
 }
 .header {
     min-height: 100vh;
@@ -27,7 +27,7 @@ nav {
 }
 label.logo {
     color: white;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-family: "FF Mark W05", Arial, sans-serif;
     font-size: 35px;
     line-height: 80px;
     padding: 0 100px;
