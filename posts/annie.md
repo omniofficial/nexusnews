@@ -29,4 +29,20 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 - Support
 
 # item/runes selection for mid
-**essential** ![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v2)
+**essential**: ![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v2)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v2)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v2)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v2)
+![item5](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v2)
+![item6](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3157.png?v2)
+
+**optional**:
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v2)
+![item2](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3135.png?v2)
+![item3](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3165.png?v2)
+![item4](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3137.png?v2)
+![5](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v2)
+![6](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3102.png?v2)
+
+# Runes:
+![item1](https://cdn.mobalytics.gg/assets/lol/images/perks/8112.png?v03) or ![rune2](https://cdn.mobalytics.gg/assets/lol/images/perks/8369.png?v03) or ![3](https://cdn.mobalytics.gg/assets/lol/images/perks/8229.png?v03) ![](https://cdn.mobalytics.gg/assets/lol/images/perks/8226.png?v03)
