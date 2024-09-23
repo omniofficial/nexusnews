@@ -27,3 +27,6 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 # role selection:
 - Mid
 - Support
+
+# item/runes selection for mid
+**essential** ![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v2)
