@@ -45,4 +45,4 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 ![6](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3102.png?v2)
 
 # Runes:
-![item1](https://cdn.mobalytics.gg/assets/lol/images/perks/8112.png?v03) or ![rune2](https://cdn.mobalytics.gg/assets/lol/images/perks/8369.png?v03) or ![3](https://cdn.mobalytics.gg/assets/lol/images/perks/8229.png?v03) ![](https://cdn.mobalytics.gg/assets/lol/images/perks/8226.png?v03)
+![item1](https://cdn.mobalytics.gg/assets/lol/images/perks/8112.png?v03) or ![rune2](https://cdn.mobalytics.gg/assets/lol/images/perks/8369.png?v03) or ![3](https://cdn.mobalytics.gg/assets/lol/images/perks/8229.png?v03)
