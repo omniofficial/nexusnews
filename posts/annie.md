@@ -24,3 +24,6 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 - Incinerate Incinerate should be taken at first level instead of Disintegrate Disintegrate if you need a stun at level 1 or if you're playing support. The main reason is that it can be cast without a target, meaning that Annie can build up her stun stun in base to negate the mana cost.
 - While a maxed Incinerate Incinerate deals more damage than a maxed Disintegrate Disintegrate, this comes with a higher mana cost and cooldown, as well as less reliable farming. However, against enemies who can block Disintegrate Disintegrate, such as Yasuo, Incinerate Incinerate can be maxed first for more poke, given that it bypasses Yasuo's Wind Wall Wind Wall.
 
+# role selection:
+- Mid
+- Support
