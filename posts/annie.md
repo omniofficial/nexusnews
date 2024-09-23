@@ -46,3 +46,22 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 
 # Runes:
 ![item1](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) or ![rune2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011) or ![3](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
+
+# item/runes selection for support
+**essential**: ![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v2)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v05)
+![item](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v05)
+
+**optional**:
+![1](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3165.png?v2)
+![2](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05)
+![3](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3157.png?v05)
+![4](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05)
+![5](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05)
+![6](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3102.png?v05)
+
+# Runes:
+![rune](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) or ![rune](https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Dark_Harvest_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182324) or ![rune](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228) or ![rune](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Glacial_Augment_rune.png/revision/latest/scale-to-width-down/52?cb=20171126181603)
