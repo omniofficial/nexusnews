@@ -45,4 +45,4 @@ Hey, summoners! Welcome to our deep dive into the world of Annie, the Dark Child
 ![6](https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3102.png?v2)
 
 # Runes:
-![item1](https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Hail_of_Blades_rune.png/revision/latest/scale-to-width-down/52?cb=20180505140825) or ![rune2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011) or ![3](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
+![item1](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) or ![rune2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011) or ![3](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
