@@ -24,7 +24,7 @@ Radiant Blast can slow down enemies and reduce their armor and magic resistance 
 - When activated, Kayle and another allied champion you choose will be healed for a certain period and gain bonus movement speed for two seconds.
 - **E** ![e](https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Kayle_Starfire_Spellblade.png/revision/latest?cb=20240813004634) **Starfire Spellblade**
 - Passive: This innate skill allows Kayle’s auto-attacks to inflict bonus magic damage on-hit.
--Active: When casting Starfire Spellblade, it causes Kayle’s subsequent auto-attacks to become unstoppable, dealing bonus magic damage based on the enemy’s missing health.
+- Active: When casting Starfire Spellblade, it causes Kayle’s subsequent auto-attacks to become unstoppable, dealing bonus magic damage based on the enemy’s missing health.
 Additionally, Starfire Spellblade grants Kayle access to one ranged auto-attack early on.
 - **R** ![r](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Kayle_Divine_Judgment.png/revision/latest?cb=20240813004515) **Unbreakable Will**
 - When activating Unbreakable Will, Alistar will remove all forms of CC from himself, and he will reduce incoming physical and magic damage up from 55% to 75% for 7 seconds.
