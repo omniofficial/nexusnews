@@ -62,7 +62,7 @@ Here’s a couple of tips and tricks to help you get a hold of Kayle’s unique 
 
 **essential**:
 ![item1](https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Nashor%27s_Tooth_item.png/revision/latest/scale-to-width-down/40?cb=20201029213416)
-![item2[(https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704)
+![item2](https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704)
 ![item3](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Lich_Bane_item.png/revision/latest/scale-to-width-down/40?cb=20201118205241)
 ![item4](https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Shadowflame_item.png/revision/latest/scale-to-width-down/40?cb=20211020233741)
 ![item5](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
@@ -76,7 +76,7 @@ Here’s a couple of tips and tricks to help you get a hold of Kayle’s unique 
 ![item1](https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Zephyr_item.png/revision/latest/scale-to-width-down/40?cb=20240511184034)
 
 # Runes:
-![runes1](https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Press_the_Attack_rune.png/revision/latest/scale-to-width-down/52?cb=20171126181645)
+![runes1](https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Press_the_Attack_rune.png/revision/latest/scale-to-width-down/52?cb=20171126181645) or
 ![runes2](https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Fleet_Footwork_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182047)
 
 
