@@ -1,0 +1,132 @@
+/* RICKY WORK ON THIS */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    background: #1c1a24;
+    min-height: 100vh;
+    width: 100%;
+    font-family: "FF Mark W05", Arial, sans-serif;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(238, 34, 194, 0.7), #640a3fb3),
+        url(/images/starguardian.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+nav {
+    background: #091428;
+    height: 80px;
+    width: 100%;
+}
+label.logo {
+    color: white;
+    font-family: "FF Mark W05", Arial, sans-serif;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav u1 {
+    float: right;
+    margin-right: 20px;
+}
+nav u1 li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav u1 li a {
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,
+a:hover {
+    background: #f589e9;
+    transition: 0.5s;
+}
+
+.main1 {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.main1 h1 {
+    font-size: 60px;
+}
+.main1 p {
+    margin: 20px 0 30px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.main2,
+.main3,
+.popular-content,
+.FRQ {
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin: 0px auto;
+}
+
+.main2 h2,
+.main3 h2,
+.popular-content h2,
+.FRQ h2 {
+    overflow-wrap: break-word;
+    text-wrap: balance;
+    word-break: break-word;
+    font-family: Georgia, Times "Times New Roman", Times, serif, Times, serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 60px;
+    line-height: 120px;
+    color: #f589e9;
+}
+
+.main2 h3,
+.main3 h3,
+.popular-content h3,
+.FRQ h3 {
+    color: #e75168;
+    font-family: Georgia, Times "Times New Roman", Times, serif, Times, serif;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+.main2 p,
+.main3 p,
+.popular-content p,
+.FRQ p {
+    color: #ffffff;
+    text-align: left;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+.footer {
+    background: #091428;
+    color: #e75168;
+    font-size: 18px;
+}
