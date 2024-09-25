@@ -7,13 +7,12 @@ Now, tales are told of her serving justice to evil using her fiery swords, with 
 # Abilities
 - **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Kayle_Divine_Ascent.png/revision/latest?cb=20240813004503) **Divine Ascent** 
 - This passive skill lets Kayle’s attacks become empowered by the heavens as she levels up. Kayle’s wings are lit aflame as she gradually gains movement and attack speed and attacks range waves of fire on her spells.
-
 When Kayle reaches levels 1, 6, 11, and 16, she will ascend into a new form and gain additional bonuses.
 
-Level 1: Kayle’s attack grants her one stack of Zeal for five seconds, stacking up to five times. Each stack gives her 6% bonus attack speed and at max stacks it also gives 8% bonus movement speed.
-Level 6: Kayle’s basic attacks gain range. 
-Level 11: Kayle’s attacks against enemy minions, monsters, and champions unleash a wave of fire in a target direction, inflicting bonus magic damage.
-Level 16: Kayle will be permanently exalted, allowing her to gain bonus attack range.
+-Level 1: Kayle’s attack grants her one stack of Zeal for five seconds, stacking up to five times. Each stack gives her 6% bonus attack speed and at max stacks it also gives 8% bonus movement speed.
+-Level 6: Kayle’s basic attacks gain range. 
+-Level 11: Kayle’s attacks against enemy minions, monsters, and champions unleash a wave of fire in a target direction, inflicting bonus magic damage.
+-Level 16: Kayle will be permanently exalted, allowing her to gain bonus attack range.
 - **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Kayle_Radiant_Blast.png/revision/latest?cb=20240813004545) **Pulverize**
 - Alistar smashes the ground under him, knocking up enemies nearby, and deals 60 to 240 magic damage to all opponents within the area while tossing them into the air—stunning enemies for 1 second.
 - **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Kayle_Celestial_Blessing.png/revision/latest?cb=20240813004439) **Headbutt**
