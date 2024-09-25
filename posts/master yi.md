@@ -3,19 +3,19 @@
 Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionia Crest icon Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them.
 
 # Abilities
-- **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Annie_Pyromania.png/revision/latest?cb=20240810171630) **Double Strike** 
+- **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Master_Yi_Double_Strike.png/revision/latest?cb=20240813141205) **Double Strike** 
 - Every few consecutive basic attack, Master Yi strikes twice.
 
-- **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Annie_Disintegrate.png/revision/latest?cb=20240810171544) **Alpha Strike**
+- **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Master_Yi_Alpha_Strike.png/revision/latest?cb=20240813022206) **Alpha Strike**
 - Master Yi teleports across the battlefield with blinding speed, dealing physical damage to multiple units in his path, while simultaneously becoming untargetable. Alpha Strike can critically strike and deals bonus physical damage to monsters. Basic attacks reduce Alpha Strike's cooldown.
 
-- **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Annie_Incinerate.png/revision/latest?cb=20240810171600) **Meditate**
+- **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Master_Yi_Meditate.png/revision/latest?cb=20240813141253) **Meditate**
 - Master Yi rejuvenates his body by focus of mind, restoring Health and taking reduced damage for a short time. In addition, Master Yi will gain stacks of Double Strike and pause the remaining duration on Wuju Style and Highlander for each second he channels.
 
-- **E** ![e](https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Annie_Molten_Shield.png/revision/latest?cb=20240810171616) **Wuju Style**
+- **E** ![e](https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Master_Yi_Wuju_Style.png/revision/latest?cb=20240813141336) **Wuju Style**
 - Grants bonus true damage on basic attacks.
 
-- **R** ![r](https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Annie_Summon-_Tibbers.png/revision/latest?cb=20240810171642) **Highlander**
+- **R** ![r](https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Master_Yi_Highlander.png/revision/latest?cb=20240813141229) **Highlander**
 - Master Yi moves with unparalleled agility, temporarily increasing his Move Speed and Attack Speed as well as making him immune to all slowing effects. While active, Champion kills or assists extend Highlander's duration. Passively reduces cooldown for his other abilities on a kill or assist.
 
 # TIPS AND TRICKS
