@@ -30,8 +30,8 @@ Master Yi has tempered his body and sharpened his mind, so that thought and acti
 # item/runes selection for Jungle
 
 **Shoe choices**:
-![s1](https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Berserker%27s_Greaves_item.png/revision/latest/scale-to-width-down/40?cb=20201118202614)
-![s2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544)
+![s1](https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Berserker%27s_Greaves_item.png/revision/latest/scale-to-width-down/40?cb=20201118202614) or
+![s2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or 
 ![s3](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540)
 
 **essential**:
@@ -45,6 +45,6 @@ Master Yi has tempered his body and sharpened his mind, so that thought and acti
 ![i1](https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Wit%27s_End_item.png/revision/latest/scale-to-width-down/40?cb=20201027220422)
 ![i2](https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Profane_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20240915025023)
 ![i3](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Randuin%27s_Omen_item.png/revision/latest/scale-to-width-down/40?cb=20201027213705)
-![i4[(https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Titanic_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20201118210703)
+![i4](https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Titanic_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20201118210703)
 ![i5](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
 ![i6](https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Guinsoo%27s_Rageblade_item.png/revision/latest/scale-to-width-down/40?cb=20201029192542)
