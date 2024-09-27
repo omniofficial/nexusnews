@@ -122,6 +122,13 @@ a:hover {
     line-height: 28px;
     font-weight: 400;
 }
+.esportsButton {
+    background-color: #f589e9;
+}
+
+.guidesButton {
+    background-color: #f589e9;
+}
 
 .footer {
     background: #091428;
