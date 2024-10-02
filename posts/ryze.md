@@ -49,9 +49,9 @@ In spite of the orderâ€™s best efforts, knowledge of the Runes began to spreadâ€
 
 # item/runes selection for mid:
 **Shoes choices**:
-![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Sorcerer%27s_Shoes_item.png/revision/latest/scale-to-width-down/40?cb=20201118210136)
-![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540)
-![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544)
+![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Sorcerer%27s_Shoes_item.png/revision/latest/scale-to-width-down/40?cb=20201118210136) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or
 ![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352)
 
 **Essential**:
@@ -65,4 +65,11 @@ In spite of the orderâ€™s best efforts, knowledge of the Runes began to spreadâ€
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Cosmic_Drive_item.png/revision/latest/scale-to-width-down/40?cb=20201118202910)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Cryptbloom_item.png/revision/latest/scale-to-width-down/40?cb=20231207052436)
-![o]()
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest/scale-to-width-down/40?cb=20201029203022)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Morellonomicon_item.png/revision/latest/scale-to-width-down/40?cb=20201027211844)
+
+# Runes:
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947)
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032)
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Phase_Rush_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182204)
