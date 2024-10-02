@@ -30,6 +30,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
     -   Personalized Guides [N]
     -   Popular Content [N]
     -   FAQ [N]
+        -   Click and expand function [N]
     -   Functional Global Footer [N]
 
 -   Blog

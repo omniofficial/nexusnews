@@ -121,6 +121,7 @@ a:hover {
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
+    margin-bottom: 1em;
 }
 .esportsButton {
     background-color: #f589e9;
@@ -134,4 +135,22 @@ a:hover {
     background: #091428;
     color: #e75168;
     font-size: 18px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: #ffffff;
+    text-align: left;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+
+li::before {
+    content: "• ";
+    color: #e75168;
 }
