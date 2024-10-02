@@ -59,4 +59,8 @@ In spite of the orderâ€™s best efforts, knowledge of the Runes began to spreadâ€
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Rod_of_Ages_item.png/revision/latest/scale-to-width-down/40?cb=20221020150244)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
-](https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704)
+
+**Optional**:
+![o]()
+![o]()
+![o]()
