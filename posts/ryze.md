@@ -61,6 +61,8 @@ In spite of the orderâ€™s best efforts, knowledge of the Runes began to spreadâ€
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
 
 **Optional**:
-![o]()
-![o]()
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Cosmic_Drive_item.png/revision/latest/scale-to-width-down/40?cb=20201118202910)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Cryptbloom_item.png/revision/latest/scale-to-width-down/40?cb=20231207052436)
 ![o]()
