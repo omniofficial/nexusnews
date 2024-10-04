@@ -1,3 +1,18 @@
+@font-face {
+    font-family: "headbarFont";
+    src: url(/fontstest/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "h1Font";
+    src: url(/fontstest/BeaufortforLOL-Regular.ttf);
+}
+
+@font-face {
+    font-family: "h2Font";
+    src: url(/fontstest/adobe-garamond-pro-2/AGaramondPro-Regular.otf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,9 +22,10 @@
 }
 body {
     background: #1c1a24;
+    color: #e9e9ff;
     min-height: 100vh;
     width: 100%;
-    font-family: "FF Mark W05", Arial, sans-serif;
+    font-family: Georgia;
 }
 .header {
     min-height: 100vh;
@@ -27,7 +43,7 @@ nav {
 }
 label.logo {
     color: white;
-    font-family: "FF Mark W05", Arial, sans-serif;
+    font-family: "h1Font";
     font-size: 35px;
     line-height: 80px;
     padding: 0 100px;
@@ -43,8 +59,12 @@ nav u1 li {
     margin: 0 5px;
 }
 nav u1 li a {
+    font-family: "headbarFont";
     color: white;
-    font-size: 17px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: 0.08em;
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;
@@ -66,6 +86,7 @@ a:hover {
 }
 .main1 h1 {
     font-size: 60px;
+    font-family: "h1Font";
 }
 .main1 p {
     margin: 20px 0 30px;
@@ -88,14 +109,12 @@ a:hover {
 .main3 h2,
 .popular-content h2,
 .FRQ h2 {
-    overflow-wrap: break-word;
-    text-wrap: balance;
-    word-break: break-word;
-    font-family: Georgia, Times "Times New Roman", Times, serif, Times, serif;
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 60px;
+    font-family: "h1Font", Arial, sans-serif;
+    font-weight: 700px;
+    font-size: 50px;
+    letter-spacing: 2px;
     line-height: 120px;
+    text-transform: uppercase;
     color: #f589e9;
 }
 
@@ -103,8 +122,7 @@ a:hover {
 .main3 h3,
 .popular-content h3,
 .FRQ h3 {
-    color: #e75168;
-    font-family: Georgia, Times "Times New Roman", Times, serif, Times, serif;
+    color: rgb(239, 85, 108);
     text-transform: uppercase;
     text-align: left;
     font-size: 18px;
@@ -116,7 +134,6 @@ a:hover {
 .main3 p,
 .popular-content p,
 .FRQ p {
-    color: #ffffff;
     text-align: left;
     font-size: 18px;
     line-height: 28px;
@@ -142,15 +159,10 @@ ul {
 }
 
 li {
-    color: #ffffff;
+    color: white;
     text-align: left;
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
     margin-bottom: 1em;
-}
-
-li::before {
-    content: "• ";
-    color: #e75168;
 }
