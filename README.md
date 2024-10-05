@@ -18,14 +18,13 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 
 ## Y = Yes, N = No, IP = In-Progress
 
--   Home Page [2/5]
+-   Home Page [4/10]
 
     -   Site overview [Y]
     -   Color theme [Y]
     -   Header [Y]
     -   Fonts [Y]
     -   Buttons [IP]
-    -   Functional Global Header [IP]
     -   eSports Section [N]
         -   Images [N]
         -   SEO [N]
@@ -37,6 +36,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
         -   SEO [N]
     -   FAQ [N]
         -   Click and expand function [N]
+    -   Functional Global Header [IP]
     -   Functional Global Footer [N]
 
 -   Blog
