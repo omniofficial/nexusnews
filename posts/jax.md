@@ -63,3 +63,8 @@ Here are tips and tricks to help you master Jax’s playstyle in no time:
 
 # item/runes selection for top:
 **Shoes choices**:
+![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
+
