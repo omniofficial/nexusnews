@@ -70,6 +70,6 @@ In spite of the orderâ€™s best efforts, knowledge of the Runes began to spreadâ€
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Morellonomicon_item.png/revision/latest/scale-to-width-down/40?cb=20201027211844)
 
 # Runes:
-![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947)
-![r](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032)
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) or
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) or
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Phase_Rush_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182204)
