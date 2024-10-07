@@ -61,10 +61,30 @@ Here are tips and tricks to help you master Jax’s playstyle in no time:
 - jungle
 - Top
 
-# item/runes selection for top:
+# item/runes selection for top/jungle:
 **Shoes choices**:
 ![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
 ![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
-![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or
 ![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
+
+**Essential**:
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Trinity_Force_item.png/revision/latest/scale-to-width-down/40?cb=20201102200650)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Sundered_Sky_item.png/revision/latest/scale-to-width-down/40?cb=20231122033514)
+
+**Optional**:
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Blade_of_the_Ruined_King_item.png/revision/latest/scale-to-width-down/40?cb=20230505015415)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Death%27s_Dance_item.png/revision/latest/scale-to-width-down/40?cb=20221019161938)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Force_of_Nature_item.png/revision/latest/scale-to-width-down/40?cb=20201118204335)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Wit%27s_End_item.png/revision/latest/scale-to-width-down/40?cb=20201027220422)
+
+# Runes:
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) or
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) or
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Grasp_of_the_Undying_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182107)
 
