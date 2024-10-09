@@ -104,18 +104,7 @@ a:hover {
     text-wrap: balance;
     line-height: 20px;
 }
-/*
-.main2,
-.main3,
-.popular-content,
-.FRQ {
-    padding-left: 48px;
-    padding-right: 48px;
-    padding-top: 48px;
-    padding-bottom: 48px;
-    margin: 0px auto;
-}
-*/
+
 .main2 h2,
 .main3 h2,
 .popular-content h2,
@@ -165,7 +154,8 @@ a:hover {
     display: flex;
     justify-content: space-between;
     padding: 48px;
-    width: 60%;
+    width: 100%;
+    margin: auto 0 auto;
 }
 
 .main2 img {
@@ -176,11 +166,16 @@ a:hover {
     margin-right: 15px;
 }
 
+.main2text {
+    width: 40%;
+}
+
 .main3 {
     display: flex;
     justify-content: space-between;
     padding: 48px;
-    width: 60%;
+    width: 100%;
+    margin: auto 0 auto;
 }
 
 .main3 img {
@@ -191,7 +186,14 @@ a:hover {
     margin-right: 15px;
 }
 
-/* IN PROGRESS */
+.main3text {
+    width: 40%;
+}
+
+.FRQ {
+    padding: 48px;
+}
+
 .buttonPrimary {
     border: 0;
     text-align: center;
@@ -204,8 +206,8 @@ a:hover {
     color: #ffffff;
     background-color: #1c1a24;
     border-radius: 10px;
-    font-family: "textFont";
-    font-weight: 600;
+    font-family: "Montserrat", Helvetica, sans-serif;
+    font-weight: 700;
     text-decoration: none;
     transition: 200ms ease-out;
 }
@@ -219,15 +221,26 @@ a:hover {
     width: fit-content;
     margin-top: 25px;
     line-height: 26px;
-    color: #ffffff;
-    background-color: #1c1a24;
+    color: #1c1a24;
+    background-color: #e75168;
     border-radius: 10px;
-    font-family: "textFont";
-    font-weight: 600;
+    font-family: "Montserrat", Helvetica, sans-serif;
+    font-weight: 700;
     text-decoration: none;
     transition: 200ms ease-out;
 }
 
+.buttonPrimary:hover {
+    background: #f589e9;
+    color: #091428;
+    transition: 0.5s;
+}
+
+.buttonSecondary:hover {
+    background: #f589e9;
+    color: #091428;
+    transition: 0.5s;
+}
 .footer {
     background: #091428;
     color: #e75168;
