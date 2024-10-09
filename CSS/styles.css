@@ -31,10 +31,11 @@
     box-sizing: border-box;
 }
 body {
+    margin: 0;
     background: #1c1a24;
     color: #e9e9ff;
-    min-height: 100vh;
-    width: 100%;
+    font-size: 18px;
+    font-weight: 400px;
     font-family: "textFont";
 }
 .header {
@@ -99,11 +100,11 @@ a:hover {
     font-family: "h1Font";
 }
 .main1 p {
-    margin: 20px 0 30px;
-    font-size: 20px;
-    color: #ffffff;
+    text-align: center;
+    text-wrap: balance;
+    line-height: 20px;
 }
-
+/*
 .main2,
 .main3,
 .popular-content,
@@ -114,11 +115,12 @@ a:hover {
     padding-bottom: 48px;
     margin: 0px auto;
 }
-
+*/
 .main2 h2,
 .main3 h2,
 .popular-content h2,
 .FRQ h2 {
+    margin: 0;
     font-family: "h1Font", Arial, sans-serif;
     font-weight: 700px;
     font-size: 50px;
@@ -132,6 +134,7 @@ a:hover {
 .main3 h3,
 .popular-content h3,
 .FRQ h3 {
+    margin: 0;
     color: rgb(239, 85, 108);
     font-family: "Montserrat", Helvetica, sans-serif;
     text-transform: uppercase;
@@ -153,26 +156,76 @@ a:hover {
     margin-bottom: 1em;
 }
 
-/* IN PROGRESS */
-.Button {
-    font-family: "Montserrat", Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 19px;
-    background-color: #432c9b;
-    /* background-color: #0a1231; */
-    border: 1px solid #ffffff;
-    color: #ffffff;
-    cursor: pointer;
-    display: inline-block;
-    letter-spacing: 1px;
-    padding: 15px 20px;
-    position: relative;
-    text-align: center;
-    text-transform: uppercase;
+.popular-content {
+    background-color: #1c1a24;
+    padding: 48px;
 }
 
-.Button p {
-    font-size: 25px;
+.main2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    width: 60%;
+}
+
+.main2 img {
+    height: 250px;
+}
+
+.main2 p {
+    margin-right: 15px;
+}
+
+.main3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    width: 60%;
+}
+
+.main3 img {
+    height: 250px;
+}
+
+.main3 p {
+    margin-right: 15px;
+}
+
+/* IN PROGRESS */
+.buttonPrimary {
+    border: 0;
+    text-align: center;
+    text-wrap: balance;
+    display: inline-block;
+    padding: 19px 34px;
+    width: fit-content;
+    margin-top: 25px;
+    line-height: 26px;
+    color: #ffffff;
+    background-color: #1c1a24;
+    border-radius: 10px;
+    font-family: "textFont";
+    font-weight: 600;
+    text-decoration: none;
+    transition: 200ms ease-out;
+}
+
+.buttonSecondary {
+    border: 0;
+    text-align: center;
+    text-wrap: balance;
+    display: inline-block;
+    padding: 19px 34px;
+    width: fit-content;
+    margin-top: 25px;
+    line-height: 26px;
+    color: #ffffff;
+    background-color: #1c1a24;
+    border-radius: 10px;
+    font-family: "textFont";
+    font-weight: 600;
+    text-decoration: none;
+    transition: 200ms ease-out;
 }
 
 .footer {
