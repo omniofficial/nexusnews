@@ -11,7 +11,7 @@ Soraka, a celestial being from beyond Mount Targon, descended to Earth to protec
   
 - **W** [![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaW.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_W1.mp4) **Astral Infusion**
 - Soraka sacrifices a portion of her own health to heal another friendly champion.
-- 
+  
 - **E** [![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/SorakaE.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_E1.mp4) **Equinox**
 - Creates a zone at a location that silences all enemies inside. When the zone expires, all enemies still inside are rooted.
   
