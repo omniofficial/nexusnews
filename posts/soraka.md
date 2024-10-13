@@ -52,4 +52,4 @@ Soraka, a celestial being from beyond Mount Targon, descended to Earth to protec
 ![oi](https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Locket_of_the_Iron_Solari_item.png/revision/latest/scale-to-width-down/40?cb=20201104203301)
 
 # Runes:
-![runes[(https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228)
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228)
