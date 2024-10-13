@@ -42,13 +42,11 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 
 **Optional**:
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
-![o](https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Blade_of_the_Ruined_King_item.png/revision/latest/scale-to-width-down/40?cb=20230505015415)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Death%27s_Dance_item.png/revision/latest/scale-to-width-down/40?cb=20221019161938)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Force_of_Nature_item.png/revision/latest/scale-to-width-down/40?cb=20201118204335)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
-![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Wit%27s_End_item.png/revision/latest/scale-to-width-down/40?cb=20201027220422)
 
 # Runes:
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) or
