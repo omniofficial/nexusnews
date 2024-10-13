@@ -47,10 +47,13 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
-
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Profane_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20240915025023)
 
 # Runes:
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) or
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) or
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Grasp_of_the_Undying_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182107)
+
+
 
