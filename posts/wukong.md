@@ -51,9 +51,8 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Profane_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20240915025023)
 
 # Runes:
-![r](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) or
-![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) or
-![r](https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Grasp_of_the_Undying_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182107)
+![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) 
+
 
 
 
