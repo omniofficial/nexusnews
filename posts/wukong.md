@@ -39,6 +39,7 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Trinity_Force_item.png/revision/latest/scale-to-width-down/40?cb=20201102200650)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Sundered_Sky_item.png/revision/latest/scale-to-width-down/40?cb=20231122033514)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Black_Cleaver_item.png/revision/latest/scale-to-width-down/40?cb=20201027193134)
 
 **Optional**:
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
