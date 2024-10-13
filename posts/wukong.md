@@ -28,7 +28,7 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 - jungle
 - Top
 
-# item/runes selection for top/jungle:
+# item selection for jungle:
 **Shoes choices**:
 ![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
 ![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
@@ -50,7 +50,30 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Profane_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20240915025023)
 
-# Runes:
+# item selection for top:
+**Shoes choices**:
+![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or
+![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
+
+**Essential**:
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Eclipse_item.png/revision/latest/scale-to-width-down/40?cb=20201118204016)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Trinity_Force_item.png/revision/latest/scale-to-width-down/40?cb=20201102200650)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Sundered_Sky_item.png/revision/latest/scale-to-width-down/40?cb=20231122033514)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Black_Cleaver_item.png/revision/latest/scale-to-width-down/40?cb=20201027193134)
+
+**Optional**:
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Death%27s_Dance_item.png/revision/latest/scale-to-width-down/40?cb=20221019161938)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Force_of_Nature_item.png/revision/latest/scale-to-width-down/40?cb=20201118204335)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
+![o](https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Profane_Hydra_item.png/revision/latest/scale-to-width-down/40?cb=20240915025023)
+
+# Runes for top/jungle:
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) 
 
 
