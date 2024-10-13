@@ -37,7 +37,6 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 
 **Essential**:
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Trinity_Force_item.png/revision/latest/scale-to-width-down/40?cb=20201102200650)
-![ei](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Spear_of_Shojin_item.png/revision/latest/scale-to-width-down/40?cb=20221020150439)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Sundered_Sky_item.png/revision/latest/scale-to-width-down/40?cb=20231122033514)
 ![ei](https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Black_Cleaver_item.png/revision/latest/scale-to-width-down/40?cb=20201027193134)
 
@@ -48,6 +47,7 @@ Wukong is a vastayan trickster who uses his strength, agility, and intelligence 
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
 ![o](https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Sterak%27s_Gage_item.png/revision/latest/scale-to-width-down/40?cb=20201027215554)
+
 
 # Runes:
 ![r](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) or
