@@ -38,3 +38,18 @@ Soraka, a celestial being from beyond Mount Targon, descended to Earth to protec
 ![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
 
 **Essential**:
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Dream_Maker_item.png/revision/latest/scale-to-width-down/40?cb=20231122033502)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Moonstone_Renewer_item.png/revision/latest/scale-to-width-down/40?cb=20201028171852)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Warmog%27s_Armor_item.png/revision/latest/scale-to-width-down/40?cb=20210904172723)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Dawncore_item.png/revision/latest/scale-to-width-down/40?cb=20231207074908)
+![ei](https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Staff_of_Flowing_Water_item.png/revision/latest/scale-to-width-down/40?cb=20201118210501)
+
+**Optional**:
+![oi](https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Redemption_item.png/revision/latest/scale-to-width-down/40?cb=20210904174044)
+![oi](https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Mikael%27s_Blessing_item.png/revision/latest/scale-to-width-down/40?cb=20201104235802)
+![oi](https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Ardent_Censer_item.png/revision/latest/scale-to-width-down/40?cb=20240915025907)
+![oi](https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Shurelya%27s_Battlesong_item.png/revision/latest/scale-to-width-down/40?cb=20201110202228)
+![oi](https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Locket_of_the_Iron_Solari_item.png/revision/latest/scale-to-width-down/40?cb=20201104203301)
+
+# Runes:
+![runes[(https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228)
