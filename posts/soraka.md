@@ -27,3 +27,14 @@ Soraka, a celestial being from beyond Mount Targon, descended to Earth to protec
 - Soraka can be a challenging champion to play well, but everything will go smoothly if you follow this build guide. The best item for Soraka is Ionian Boots of Lucidity, followed by Moonstone Renewer purchase. To finish the stack off with Redemption and or Shard of True Ice as your final items before using Flash and Barrier as summoners spells.
 
 
+# role selection:
+- Support
+
+# item selection for support:
+**Shoes choices**:
+![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or
+![shoes4](https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Boots_of_Swiftness_item.png/revision/latest/scale-to-width-down/40?cb=20201027193506)
+
+**Essential**:
