@@ -22,13 +22,6 @@ Now, as the only survivor of the destruction that occurred, Malphite tries to ge
 - **R** [![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/UFSlash.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_R1.mp4) **Unstoppable Force**
 - Malphite launches himself to a location at high speed, damaging enemies and knocking them into the air.
 
-# TIPS AND TRICKS
-- Soraka is the perfect addition to any team, using her healing solid abilities and powerful skills in battle.
-- Wish is a function in the game where you can call forth your allies to safety from across the map, saving them from otherwise fatal events.
-- Equinox can keep enemies at bay by creating zones that are inaccessible to them.
-- Soraka is a support which often works closely with her marksman. She can keep them healthy during the early levels of the lane phase by casting Astral Infusion before turning to Starcall to damage enemy bot laners and restore some health for herself as she uses this ability.
-- Soraka is a high-skill cap champion with a wide variety of viable runes. Summon Aery will provide the most damage and utility for champions who can land their abilities on enemy heroes consistently. However, Picking Sorcery as your Primary rune tree allows you more diversity in choosing which Rune best suits your playstyle or team composition.
-- Soraka can be a challenging champion to play well, but everything will go smoothly if you follow this build guide. The best item for Soraka is Ionian Boots of Lucidity, followed by Moonstone Renewer purchase. To finish the stack off with Redemption and or Shard of True Ice as your final items before using Flash and Barrier as summoners spells.
 
 # TIPS AND TRICKS
 - Malphite’s one of the champions in League of Legends that’s a generally excellent all-around tank. He’s a living shard from the Monolith that can deal decent damage and hold himself.
