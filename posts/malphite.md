@@ -40,4 +40,52 @@ Now, as the only survivor of the destruction that occurred, Malphite tries to ge
 - Ground Slam can damage armor, so you’ll be able to inflict a lot of damage even when going against tanks like Garen.
 - To eliminate minion waves and monsters, use Ground Slam with Brutal Strikes.
 
+# role selection:
+- Top
+- Mid
 
+# item selection for Tank Top:
+**Shoes choices**:
+![shoes1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or 
+![s3](https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Plated_Steelcaps_item.png/revision/latest/scale-to-width-down/40?cb=20201029223540)
+
+**Essential**:
+![e1](https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Sunfire_Aegis_item.png/revision/latest/scale-to-width-down/40?cb=20201028172304)
+![e2](https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Frozen_Heart_item.png/revision/latest/scale-to-width-down/40?cb=20210904173935)
+![e3](https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Iceborn_Gauntlet_item.png/revision/latest/scale-to-width-down/40?cb=20221020145819)
+![e4](https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Jak%27Sho%2C_The_Protean_item.png/revision/latest/scale-to-width-down/40?cb=20221019174444)
+![e5](https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Abyssal_Mask_item.png/revision/latest/scale-to-width-down/40?cb=20221019161205)
+
+**Optional**:
+![o1](https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Unending_Despair_item.png/revision/latest/scale-to-width-down/40?cb=20231207052135)
+![o2](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Randuin%27s_Omen_item.png/revision/latest/scale-to-width-down/40?cb=20201027213705)
+![o3](https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Kaenic_Rookern_item.png/revision/latest/scale-to-width-down/40?cb=20231207052304)
+![o4](https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Force_of_Nature_item.png/revision/latest/scale-to-width-down/40?cb=20201118204335)
+![o5](https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Hollow_Radiance_item.png/revision/latest/scale-to-width-down/40?cb=20231207052019)
+
+**Runes**:
+![r1](https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Grasp_of_the_Undying_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182107) or
+![r2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011)
+
+# item selection for Mage Top/Mid:
+**Shoes choices**:
+![s1](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352)
+![s2](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Sorcerer%27s_Shoes_item.png/revision/latest/scale-to-width-down/40?cb=20201118210136)
+
+**Essential**:
+![e1](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Malignance_item.png/revision/latest/scale-to-width-down/40?cb=20231122033507)
+![e2](https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Stormsurge_item.png/revision/latest/scale-to-width-down/40?cb=20231122033513)
+![e3](https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Shadowflame_item.png/revision/latest/scale-to-width-down/40?cb=20211020233741)
+![e4](https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704)
+![e5](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
+
+**Optional**:
+![o1](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Lich_Bane_item.png/revision/latest/scale-to-width-down/40?cb=20201118205241)
+![o1](https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest/scale-to-width-down/40?cb=20201029203022)
+![o3](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
+
+**Runes**:
+![r1](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
+![r2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011)
+![r3](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032)
