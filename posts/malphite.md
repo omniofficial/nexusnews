@@ -86,6 +86,6 @@ Now, as the only survivor of the destruction that occurred, Malphite tries to ge
 ![o3](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
 
 **Runes**:
-![r1](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
-![r2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011)
+![r1](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618) or
+![r2](https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Arcane_Comet_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182011) or
 ![r3](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032)
