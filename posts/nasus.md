@@ -75,6 +75,6 @@ When Nasus came of age, he got in and was welcomed into the prestigious and excl
 ![o3](https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Blackfire_Torch_item.png/revision/latest/scale-to-width-down/40?cb=20240827213626)
 
 **Runes**
-![r1](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228)
-![r2](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Phase_Rush_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182204)
+![r1](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228) or
+![r2](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Phase_Rush_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182204) or
 ![r2](https://static.wikia.nocookie.net/leagueoflegends/images/1/12/First_Strike_rune.png/revision/latest/scale-to-width-down/52?cb=20211117134618)
