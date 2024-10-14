@@ -131,14 +131,14 @@ a:hover {
     font-size: 18px;
 }
 
-.background {   
+.background {
     min-height: 100vh;
     width: 100%;
     background-image: url("/images/background.webp");
     background-size: cover;
     position: relative;
-    opacity: 1.0;
-  }
+    opacity: 1;
+}
 .background h1 {
     width: 90%;
     color: rgb(255, 255, 255);
@@ -147,4 +147,4 @@ a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-} 
+}
