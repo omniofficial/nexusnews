@@ -7,23 +7,36 @@
         <title>Document</title>
         <link rel="stylesheet" href="CSS/styles.css" />
     </head>
-    <section class="header">
+    <div class="header">
+        <video autoplay loop muted plays-inline class="back-video">
+            <source
+                src="images/Aurelion Sol, the Star Forger _ Login Screen - League of Legends.mp4"
+                type="video/mp4"
+            />
+        </video>
         <nav>
-            <label class="logo">NexusNews</label>
-            <u1>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="HTML/blog.html">Blog</a></li>
-                <li><a href="HTML/esports.html">Esports</a></li>
-                <li><a href="HTML/guides.html">Guides</a></li>
-                <li><a href="HTML/about.html">About Us</a></li>
-            </u1>
+            <img src="/images/sgDividerIcon.png" class="logo" />
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="HTML/blog.html">BLOG</a></li>
+                <li><a href="HTML/esports.html">ESPORTS</a></li>
+                <li><a href="HTML/guides.html">GUIDES</a></li>
+            </ul>
         </nav>
-    </section>
-    <body>
         <div class="main1">
             <p>An informative news site</p>
+            <div class="line"></div>
             <h1>NexusNews</h1>
             <a class="buttonPrimary" href="HTML/blog.html">LEARN THE GAME</a>
+        </div>
+    </div>
+    <body>
+        <div class="divider">
+            <div class="dividerlinetop"></div>
+            <div class="dividericon">
+                <img src="/images/sgDividerIcon.png" />
+            </div>
+            <div class="dividerlinebottom"></div>
         </div>
 
         <div class="popular-content">
@@ -52,21 +65,30 @@
             </div>
         </div>
         <div class="main3">
-            <div class="main3text">
-                <h2>Personalized Guides</h2>
-                <h3>Tailored to suit individualistic needs</h3>
-                <p>
-                    Our guides aim to deliver high quality content to players of
-                    all levels. Each guide serves as way to drastically improve
-                    your gameplay. Through grit and a little bit of luck, you
-                    can climb the ranks with the help of our ad-free content.
-                </p>
-                <a class="buttonSecondary" href="HTML/guides.html"
-                    >DISCOVER MORE CHAMPIONS</a
-                >
-            </div>
-            <div>
-                <img src="images/sittingtree.jpeg" alt="" />
+            <div class="row">
+                <div class="col">
+                    <h2>Personalized Guides</h2>
+                    <h3>Tailored to suit individualistic needs</h3>
+                    <p>
+                        Our guides aim to deliver high quality content to
+                        players of all levels. Each guide serves as way to
+                        drastically improve your gameplay. Through grit and a
+                        little bit of luck, you can climb the ranks with the
+                        help of our ad-free content.
+                    </p>
+
+                    <a class="buttonSecondary" href="HTML/guides.html"
+                        >LEARN MORE</a
+                    >
+                </div>
+                <div class="col image-col">
+                    <div class="image-gallery">
+                        <img src="images/ashespotlight.jpg" alt="" />
+                        <img src="images/ekkospotlight.jpg" alt="" />
+                        <img src="images/poppyspotlight.jpg" alt="" />
+                        <img src="images/sejuanispotlight.jpg" alt="" />
+                    </div>
+                </div>
             </div>
         </div>
 
