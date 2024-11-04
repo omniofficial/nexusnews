@@ -3,20 +3,20 @@
 Teemo is the fearless leader of the Bandle Scouts—a group of intrepid yordles dedicated to exploring Runeterra Crest icon Runeterra and learning about the great big world. He ventures far and wide, completing challenges to earn merit badges, writing new rules to add to the ever-growing Bandle Scout Handbook, and leaving exploding mushrooms around as a surprise gift for new friends. As a scout leader, nothing bad ever happens when Teemo’s around!
 
 # Abilities
-- **Passive** ![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Teemo_P.png) **Guerrilla Warfare** 
+- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Teemo_P.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0017/ability_0017_P1.mp4) **Guerrilla Warfare** 
 - PASSIVE
 - If Teemo stands still and takes no actions for a short duration, he becomes Invisible indefinitely. If he's in brush, Teemo can enter and maintain his Invisibility while moving. After leaving Invisibility, Teemo gains the Element of Surprise, increasing his Attack Speed for a few seconds.
   
-- **Q** ![q](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BlindingDart.png) **Blinding Dart**
+- **Q** [![q](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/BlindingDart.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0017/ability_0017_Q1.mp4) **Blinding Dart**
 - Obscures an enemy's vision with a powerful venom, dealing damage to the target unit and blinding it for the duration.
   
-- **W** ![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MoveQuick.png) **Move Quick**
+- **W** [![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/MoveQuick.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0017/ability_0017_W1.mp4)**Move Quick**
 - Teemo scampers around, passively increasing his Move Speed until he is struck by an enemy champion or turret. Teemo can sprint to gain bonus Move Speed that isn't stopped by being struck for a short time.
   
-- **E** ![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ToxicShot.png) **Toxic Shot**
+- **E** [![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/ToxicShot.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0017/ability_0017_E1.mp4) **Toxic Shot**
 - Each of Teemo's attacks will poison the target, dealing damage on impact and each second after for 4 seconds.
   
-- **R** ![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TeemoRCast.png) **Noxious Trap**
+- **R** [![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/TeemoRCast.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0017/ability_0017_R1.mp4) **Noxious Trap**
 - Teemo throws an explosive poisonous trap using one of the mushrooms stored in his pack. If an enemy steps on the trap, it will release a poisonous cloud, slowing enemies and damaging them over time. If Teemo throws a mushroom onto another mushroom it will bounce, gaining additional range.
 
 # TIPS AND TRICKS

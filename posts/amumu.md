@@ -4,15 +4,19 @@
 **Amumu** is a sad mummy that becomes very popular for most League of Legends players. His individual crowd control or CC, armored stats, and AoE damage capabilities make Amumu perfect for holding down vital champions and launching surprise attacks during team fights.
 
 # Abilities
-- **Passive** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Amumu_Cursed_Touch.png/revision/latest?cb=20210827175455) **Cursed Touch** 
+- **Passive** [![passive](https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Amumu_Cursed_Touch.png/revision/latest?cb=20210827175455)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_P1.mp4) **Cursed Touch** 
 - Amumu’s primary attacks Curse Touch his opponents, bringing them to grasp true bonus damage from the approaching magic damage.
-- **Q** ![q](https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339) **Bandage Toss**
+  
+- **Q** [![q](https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_Bandage_Toss.png/revision/latest?cb=20210827175339)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_Q1.mp4) **Bandage Toss**
 - Amumu’s Bandage Toss can throw a sticky bandage at their enemy, damaging and stunning the target while he pulls himself near them.
-- **W** ![w](https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Amumu_Despair.png/revision/latest?cb=20210827175532) **Despair**
+  
+- **W** [![w](https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Amumu_Despair.png/revision/latest?cb=20210827175532)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_W1.mp4) **Despair**
 - Overcoming agony, closer opponents lose a percentage of Amumu’s max health every second and have the effect of Cursed Touch refreshed.
-- **E** ![e](https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Amumu_Tantrum.png/revision/latest?cb=20210827175608) **Tantrum**
+  
+- **E** [![e](https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Amumu_Tantrum.png/revision/latest?cb=20210827175608)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_E1.mp4) **Tantrum**
 - It constantly lessens the physical damage Amumu would lay hold of. Amumu can release his temper, dealing damages to the surrounding opponents. Every time Amumu is being hit, Tantrum’s cooldown is lowered by 0.5 seconds.
-- **R** ![r](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Amumu_Curse_of_the_Sad_Mummy.png/revision/latest?cb=20210827175410) **Curse Of The Sad Mummy**
+  
+- **R** [![r](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Amumu_Curse_of_the_Sad_Mummy.png/revision/latest?cb=20210827175410)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_R1.mp4) **Curse Of The Sad Mummy**
 - Amumu can entrap enemies surrounding him by bandages, applying Cursed Touch, destructing and stunning the opponents.
   
 # TIPS AND TRICKS:
