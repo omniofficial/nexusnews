@@ -188,16 +188,15 @@ a:hover {
 
 @media (max-aspect-ratio: 16/9) {
     .back-video1 {
-        width: 55vw;
+        width: 53vw;
         height: 83vh;
-        transform: translate(-50%, 10%);
+        transform: translate(0%, 10%);
     }
 }
 
 .background {
     height: 200vh;
     width: 200%;
-    /*background-image: url("/images/background.webp"); <img src="images/Victory.jpg" alt="" /> */
     display: flex;
     align-items: center;
     padding: 0 5%;
@@ -226,11 +225,12 @@ a:hover {
     font-family: "h1Font";
 }
 
-.textAreaColumn {
-    background-color: #ffffff;
-    width: 100%;
+.MainText {
+    background-color: #000000;
+    width: 300%;
+    height: 20%;
 }
-.textAreaColumn div {
+.MainText div {
     float: left;
     width: 33%;
     padding: 10px;
@@ -238,16 +238,59 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
-.textAreaColumn div span {
+.MainText div h4 {
     display: block;
     text-align: center;
 }
 
-.textAreaColumn div textarea {
+.MainText div h5 {
+    background: transparent;
+    box-sizing: border-box;
+    width: 300%;
+    border: 3px solid red;
+    min-height: 400x;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.textAreaColumn1 {
+    background-color: #000000;
+    width: 100%;
+}
+.textAreaColumn1 div {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+}
+
+.textAreaColumn1 h4  {
+    display: block;
+    text-align: center;
+}
+
+.textAreaColumn1 div h5 {
     background: transparent;
     box-sizing: border-box;
     width: 100%;
     border: 3px solid red;
-    min-height: 400px;
+    min-height: 400x;
     color: rgb(255, 255, 255);
+    font-size: 20px;
 }
+
+/* <div class="textAreaColumn">
+            <div>
+                <span>Ricky Pham</span>
+                <textarea>Content goes here</textarea>
+            </div>
+            <div>
+                <span>Adrian Diaz</span>
+                <textarea>Content goes here</textarea>
+            </div>
+            <div>
+                <span>Tienran </span>
+                <textarea>Content goes here</textarea>
+            </div>
+        </div> */
