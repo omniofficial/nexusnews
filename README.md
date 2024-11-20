@@ -16,7 +16,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 
 ## Y = Yes, N = No, IP = In-Progress
 
--   Home Page [IP]
+### Home Page [IP]
 
     -   Site overview [Y]
     -   Color theme [Y]
@@ -37,22 +37,24 @@ This is an interactive **League of Legends** website that is tailored to fit pla
     -   Functional Global Header [Y]
     -   Functional Global Footer [IP]
 
--   Blog [IP]
-    - Styling
-        - Consistent Fonts? [Y]
-        - Strict color theme? [Y]
-    -   Page Layout
-        - Filter content function? [Y]
-        - Descriptive information? [Y]
-    -   Javascript
-        - Consistent individual styling + page layout [IP]
+### Blog [IP]
 
--   eSports [IP]
-    - 
-    - Left hand side will be filtered by eSports teams
-        - Upon clicking, user will be taken to relative content of their chosen team.
-    - This weeks content
-        - Video
-        - Information
-    - Broadcasted games
-        - Link twitch streams / official streams
+    -   Styling
+        -   Consistent Fonts? [Y]
+        -   Strict color theme? [Y]
+    -   Page Layout
+        -   Filter content function? [Y]
+        -   Descriptive information? [Y]
+    -   Javascript
+        -   Consistent individual styling + page layout [IP]
+
+### eSports [IP]
+
+    -
+    -   Left hand side will be filtered by eSports teams
+        -   Upon clicking, user will be taken to relative content of their chosen team.
+    -   This weeks content
+        -   Video
+        -   Information
+    -   Broadcasted games
+        -   Link twitch streams / official streams
