@@ -14,9 +14,9 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 
 ## TASKS
 
-## Y = Yes, N = No, IP = In-Progress
+Y = Yes, N = No, IP = In-Progress
 
-### Home Page [IP]
+## Home Page [IP]
 
     -   Site overview [Y]
     -   Color theme [Y]
@@ -37,7 +37,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
     -   Functional Global Header [Y]
     -   Functional Global Footer [IP]
 
-### Blog [IP]
+## Blog [IP]
 
     -   Styling
         -   Consistent Fonts? [Y]
@@ -48,7 +48,7 @@ This is an interactive **League of Legends** website that is tailored to fit pla
     -   Javascript
         -   Consistent individual styling + page layout [IP]
 
-### eSports [IP]
+## eSports [IP]
 
     -
     -   Left hand side will be filtered by eSports teams
