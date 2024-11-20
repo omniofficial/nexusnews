@@ -11,46 +11,40 @@ This is an interactive **League of Legends** website that is tailored to fit pla
 -   HTML
 -   CSS
 -   Javascript
--   CMS (Content Mangement System)
--   Strapi
 
 ## TASKS
 
 ## Y = Yes, N = No, IP = In-Progress
 
--   Home Page [4/10]
+-   Home Page [IP]
 
     -   Site overview [Y]
     -   Color theme [Y]
     -   Header [Y]
     -   Fonts [Y]
-    -   Buttons [IP]
-    -   eSports Section [N]
+    -   Buttons [Y]
+    -   eSports Section [Y]
+        -   Images [Y]
+        -   SEO [Y]
+    -   Personalized Guides [Y]
+        -   Images [Y]
+        -   SEO [Y]
+    -   Popular Content [IP]
         -   Images [N]
         -   SEO [N]
-    -   Personalized Guides [N]
-        -   Images [N]
-        -   SEO [N]
-    -   Popular Content [N]
-        -   Images [N]
-        -   SEO [N]
-    -   FAQ [N]
-        -   Click and expand function [N]
-    -   Functional Global Header [IP]
-    -   Functional Global Footer [N]
+    -   FAQ [Y]
+        -   Useful Questions? [Y]
+    -   Functional Global Header [Y]
+    -   Functional Global Footer [IP]
 
--   Blog
-
-    -   Strapi [IP]
+-   Blog [IP]
     -   Page Layout
     -   Universal Search / Filter Bar
 
--   eSports
-    -   Strapi [IP]
+-   eSports [IP]
     -   Page Layout
     -   Universal Search / Filter Bar
--   Guides
-    -   Strapi [IP]
+-   Guide [IP]
     -   Page Layout
     -   Universal Search / Filter Bar
--   About us [0]
+-   About us [IP]
