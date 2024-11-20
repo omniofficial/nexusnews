@@ -38,13 +38,21 @@ This is an interactive **League of Legends** website that is tailored to fit pla
     -   Functional Global Footer [IP]
 
 -   Blog [IP]
+    - Styling
+        - Consistent Fonts? [Y]
+        - Strict color theme? [Y]
     -   Page Layout
-    -   Universal Search / Filter Bar
+        - Filter content function? [Y]
+        - Descriptive information? [Y]
+    -   Javascript
+        - Consistent individual styling + page layout [IP]
 
 -   eSports [IP]
-    -   Page Layout
-    -   Universal Search / Filter Bar
--   Guide [IP]
-    -   Page Layout
-    -   Universal Search / Filter Bar
--   About us [IP]
+    - 
+    - Left hand side will be filtered by eSports teams
+        - Upon clicking, user will be taken to relative content of their chosen team.
+    - This weeks content
+        - Video
+        - Information
+    - Broadcasted games
+        - Link twitch streams / official streams
