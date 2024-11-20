@@ -20,6 +20,4 @@ $(document).ready(function () {
             .siblings()
             .removeClass("active-filter");
     });
-    
-
 });
