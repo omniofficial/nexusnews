@@ -173,7 +173,7 @@ a:hover {
 
 .back-video1 {
     position: relative;
-        width: 40vw; /* Cover half of the viewport width */
+        width: 40vw;
         height: 100vh;
         object-fit: cover;
         transform: translateY(10%);
@@ -208,20 +208,10 @@ a:hover {
     width: 130%;
     color: rgb(255, 255, 255);
     position: absolute;
-    top: -250px;
-    left: 0px;
+    top: -210px;
+    left: 75px;
     text-align: center;
     font-size: 60px;
-    font-family: "h1Font";
-}
-.main1 p {
-    width: 130%;
-    color: rgb(255, 255, 255);
-    position: absolute;
-    top: -180px;
-    left: 0px;
-    text-align: center;
-    font-size: 20px;
     font-family: "h1Font";
 }
 
@@ -247,52 +237,76 @@ a:hover {
     background: transparent;
     box-sizing: border-box;
     width: 33%;
-    border: 3px solid red;
-    min-height: 400x;
+    min-height: 400px;
     color: rgb(255, 255, 255);
     font-size: 20px;
-    margin-left: 37%;
+    margin-left: 36%;
     margin-top: -28%;
+    text-align: center;
 }
 
 .textAreaColumn1 {
     background-color: #000000;
     width: 100%;
-}
-.textAreaColumn1 div {
-    float: left;
-    width: 33%;
-    padding: 10px;
-    box-sizing: border-box;
-    color: rgb(255, 255, 255);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.textAreaColumn1 h4  {
-    display: block;
-    text-align: center;
-}
-
-.textAreaColumn1 div h5 {
+.textAreaColumn1 h5 {
     background: transparent;
     box-sizing: border-box;
-    width: 100%;
-    border: 3px solid red;
-    min-height: 400x;
+    width: 80%;
+    min-height: 400px;
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 29px;
+    text-align: center; 
 }
 
-/* <div class="textAreaColumn">
-            <div>
-                <span>Ricky Pham</span>
-                <textarea>Content goes here</textarea>
-            </div>
-            <div>
-                <span>Adrian Diaz</span>
-                <textarea>Content goes here</textarea>
-            </div>
-            <div>
-                <span>Tienran </span>
-                <textarea>Content goes here</textarea>
-            </div>
-        </div> */
+.textAreaColumn2 {
+    background-color: #000000;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.textAreaColumn2 h5 {
+    background: transparent;
+    box-sizing: border-box;
+    width: 400px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+    margin-top: 0px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto; 
+}
+
+.post-box {
+    background-color: #1e1e2e;
+    border: 1px solid #444;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    transition: transform 0.3s;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post-box:hover {
+    transform: scale(1.05);
+}
+h3 {
+    color: #f7b731;
+}
+p {
+    color: #cccccc;
+}
