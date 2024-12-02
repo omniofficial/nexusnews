@@ -3,7 +3,7 @@
 Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward predator, Ahri is now traveling the world in search of remnants of her ancestors while also trying to replace her stolen memories with ones of her own making.
 
 # Abilities
-- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)]([https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.mp4) **Triumphant Roar** 
+- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.mp4) **Triumphant Roar** 
 - This active attack lets Alistar gain a stack of “Triumph” whenever he CC’s one enemy with any of his abilities. Every time a little monster or enemy minion dies near him, he’ll gain one stack. When reaching seven stacks, Alistar will consume them all and roar, healing himself around 25 to 161 hp, depending on his levels, including all surrounding allies for double the amount. Plus, Alistar can roar instantly if a nearby champion or epic monster dies.
   
 - **Q** [![q](https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Alistar_Pulverize.png/revision/latest?cb=20240906060746)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_Q1.mp4) **Pulverize**
