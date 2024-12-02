@@ -4,7 +4,7 @@ Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies 
 she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.
 
 # Abilities
-- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_P1.mp4) **The Hitman and the Seer** 
+- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/ApheliosP.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_P1.mp4) **The Hitman and the Seer** 
 - Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Ability. Attacks and abilities consume a weapon's ammo. When out of ammo,
 - Aphelios discards the weapon and Alune summons the next of the 5.
   
