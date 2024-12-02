@@ -4,20 +4,20 @@ Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood
 With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.
 
 # Abilities
-- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.mp4) **Essence Theft** 
-- After killing 9 minions or monsters, Ahri heals. After taking down an enemy champion, Ahri heals for a greater amount.
+- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Azir_Passive.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_P1.mp4) **Shurima's Legacy** 
+- Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.
   
-- **Q** [![q](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriQ.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_Q1.mp4) **Orb of Deception**
-- Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back.
+- **Q** [![q](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirQWrapper.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_Q1.mp4) **Conquering Sands**
+- Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.
   
-- **W** [![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriW.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_W1.mp4) **Fox-Fire**
-- Ahri gains a brief burst of Move Speed and releases three fox-fires, that lock onto and attack nearby enemies.
+- **W** [![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirW.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_W1.mp4) **Arise!**
+- Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers.
   
-- **E** [![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriE.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_E1.mp4) **Charm**
-- Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her.
+- **E** [![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirEWrapper.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_E1.mp4) **Shifting Sands**
+- Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.
   
-- **R** [![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriR.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_R1.mp4) **Spirit Rush**
-- Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown, and gains additional recasts when taking down enemy champions.
+- **R** [![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AzirR.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_R1.mp4) **Emperor's Divide**
+- Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies.
 
 # TIPS AND TRICKS
 - To perform the famous “Magical Journey” strategy, you need to have one solder placed down and E, and while in mid-air, move the mouse in a different direction while pressing Q before Azir lands on the solder. Doing this makes your E travel further and deal damage to enemies on both your E and Q along the way. 
@@ -41,12 +41,13 @@ With his buried city risen from the sand, Azir seeks to restore Shurima to its f
 
 **optional**: 
 ![item5](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
-![item6](https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Cosmic_Drive_item.png/revision/latest/scale-to-width-down/40?cb=20201118202910)
-![item7](https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Liandry%27s_Torment_item.png/revision/latest/scale-to-width-down/40?cb=20201118211533)
-![item8](https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest/scale-to-width-down/40?cb=20201029203022)
-![item9](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
+![item6](https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Shadowflame_item.png/revision/latest/scale-to-width-down/40?cb=20211020233741)
+![item7](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
+![item8](https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Cryptbloom_item.png/revision/latest/scale-to-width-down/40?cb=20231207052436)
+![item9](https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Luden%27s_Companion_item.png/revision/latest/scale-to-width-down/40?cb=20231122033458)
 
 # Runes:
-![runes](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) **or**
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Lethal_Tempo_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182145) **or**
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/2/20/Conqueror_rune.png/revision/latest/scale-to-width-down/52?cb=20180314225947) **or**
 ![runes](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228) 
 
