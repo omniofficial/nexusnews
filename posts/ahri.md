@@ -3,18 +3,55 @@
 Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward predator, Ahri is now traveling the world in search of remnants of her ancestors while also trying to replace her stolen memories with ones of her own making.
 
 # Abilities
-- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.mp4) **Triumphant Roar** 
-- This active attack lets Alistar gain a stack of “Triumph” whenever he CC’s one enemy with any of his abilities. Every time a little monster or enemy minion dies near him, he’ll gain one stack. When reaching seven stacks, Alistar will consume them all and roar, healing himself around 25 to 161 hp, depending on his levels, including all surrounding allies for double the amount. Plus, Alistar can roar instantly if a nearby champion or epic monster dies.
+- **Passive** [![passive](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/passive/Ahri_SoulEater2.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.mp4) **Essence Theft** 
+- After killing 9 minions or monsters, Ahri heals. After taking down an enemy champion, Ahri heals for a greater amount.
   
-- **Q** [![q](https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Alistar_Pulverize.png/revision/latest?cb=20240906060746)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_Q1.mp4) **Pulverize**
-- Alistar smashes the ground under him, knocking up enemies nearby, and deals 60 to 240 magic damage to all opponents within the area while tossing them into the air—stunning enemies for 1 second.
+- **Q** [![q](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriQ.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_Q1.mp4) **Orb of Deception**
+- Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back.
   
-- **W** [![w](https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Alistar_Headbutt.png/revision/latest?cb=20240906060715)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_W1.mp4) **Headbutt**
-- Headbutt allows Alistar to dashes to enemies, dealing 55 to 275 magic damage upon contact, knowing them back at a distance of 650 units. All targets hit by Headbutt will get stunned for 1 second. He can headbutt enemies through walls.
+- **W** [![w](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriW.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_W1.mp4) **Fox-Fire**
+- Ahri gains a brief burst of Move Speed and releases three fox-fires, that lock onto and attack nearby enemies.
   
-- **E** [![e](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Alistar_Trample.png/revision/latest?cb=20240906060838)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_E1.mp4) **Trample**
-- During Trample, Alistar will “trample” the ground, dealing anywhere between 80 to 200 damage over 5 seconds to any nearby enemy, ticking every 0.5 seconds. Each trample pulse hitting one enemy champion gives Alistar 1 Trample stack, usually capped at 5. When you reach 5 Trample stacks, it’ll provide Alistar’s basic attack against a champion a damage boost, inflicting an additional 35 to 290 magic damage at levels 1 to 18 while stunning the target for 1 second.
+- **E** [![e](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriE.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_E1.mp4) **Charm**
+- Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her.
   
-- **R** [![r](https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Alistar_Unbreakable_Will.png/revision/latest?cb=20240906061000)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_R1.mp4) **Unbreakable Will**
-- When activating Unbreakable Will, Alistar will remove all forms of CC from himself, and he will reduce incoming physical and magic damage up from 55% to 75% for 7 seconds.
+- **R** [![r](https://ddragon.leagueoflegends.com/cdn/14.19.1/img/spell/AhriR.png)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_R1.mp4) **Spirit Rush**
+- Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown, and gains additional recasts when taking down enemy champions.
+
+# TIPS AND TRICKS
+- Essence Theft has great sustain, granting your next ability 35%  Spell Vamp. 
+- Orb of Deception deals a very decent amount of damage, dealing magic damage on the way up, and true damage on the way back. Take advantage of the true damage and position yourself correctly againts your enemy.
+- Spirit Rush is great for chasing down enemy champions, as you're able to cast Spirit Rush 3 times. It's also a great escaping ability, over thin walls and such.
+- Charm is great for initiating againts an enemy champion. Unleash your Q and E (and R with Ignite to for a secure kill if you want it) againts them while the walk harmlessly towards you.
+- All of Ahri's abilities can be dodged by dodging or juking. Both Orb of Deceptiong and Charm are line skill shots that are fairly slow, which is easy to get around from.
+- Mostly staying behind minions negates Ahri from landing her Fox-Fire, Charm, and Spirit Fire from landing directly onto you.
+- Always remember to step out of the way of Orb of Deception, as it deals true damage on the way back.
+- Ahri has one of the strongest mid-games, so hard CC can slow her utility down.
+
+# role selection:
+- Mid
+
+# item/runes selection for mid
+**essential**: 
+![mid](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Malignance_item.png/revision/latest/scale-to-width-down/40?cb=20231122033507) 
+![mid](https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Horizon_Focus_item.png/revision/latest/scale-to-width-down/40?cb=20201118204947)
+![item](https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Rabadon%27s_Deathcap_item.png/revision/latest/scale-to-width-down/40?cb=20201118205704) 
+![item](https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Shadowflame_item.png/revision/latest/scale-to-width-down/40?cb=20211020233741)
+
+**Shoe choices**:
+![shoes](https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Sorcerer%27s_Shoes_item.png/revision/latest/scale-to-width-down/40?cb=20201118210136) or
+![shoes2](https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Mercury%27s_Treads_item.png/revision/latest/scale-to-width-down/40?cb=20201027211544) or
+![shoes3](https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Ionian_Boots_of_Lucidity_item.png/revision/latest/scale-to-width-down/40?cb=20201029200352)
+
+**optional**: 
+![item5](https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Banshee%27s_Veil_item.png/revision/latest/scale-to-width-down/40?cb=20240915030006)
+![item6](https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Cosmic_Drive_item.png/revision/latest/scale-to-width-down/40?cb=20201118202910)
+![item7](https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Liandry%27s_Torment_item.png/revision/latest/scale-to-width-down/40?cb=20201118211533)
+![item8](https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Zhonya%27s_Hourglass_item.png/revision/latest/scale-to-width-down/40?cb=20201029203022)
+![item9](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Void_Staff_item.png/revision/latest/scale-to-width-down/40?cb=20221019173839)
+
+# Runes:
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Electrocute_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182032) **or**
+![runes](https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Summon_Aery_rune.png/revision/latest/scale-to-width-down/52?cb=20171126182228) 
+
 
