@@ -263,88 +263,45 @@ li {
     margin-bottom: 1em;
 }
 
-.divider {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin: 48px auto 0px;
-}
-
-.dividerlinetop {
-    margin-right: -8px;
-    background-image: linear-gradient(
-        90deg,
-        rgba(0, 0, 0, 0),
-        hsla(0, 0%, 100%, 0.41)
-    );
-    margin-right: -16px;
-    height: 1px;
-    max-width: 400px;
-    width: 35%;
-}
-
-.dividerlinebottom {
-    margin-left: -8px;
-    background-image: linear-gradient(
-        90deg,
-        hsla(0, 0%, 100%, 0.41),
-        rgba(0, 0, 0, 0)
-    );
-    margin-left: -16px;
-    height: 1px;
-    max-width: 400px;
-    width: 35%;
-}
-/* Add a black background color to the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #e9e9e9;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Style the "active" element to highlight the current page */
-.topnav a.active {
-  background-color: #2196F3;
-  color: white;
-}
-
-/* Style the search box inside the navigation bar */
-.topnav input[type=text] {
-  float: left;
-  padding: 6px;
-  border: none;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
-}
-
-/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
-@media screen and (max-width: 600px) {
-  .topnav a, .topnav input[type=text] {
-    float: none;
+/* Style the search bar */
+#searchBar {
+    width: 60%;
+    padding: 10px;
+    margin: 20px auto;
     display: block;
-    text-align: left;
-    width: 100%;
-    margin: 0;
-    padding: 14px;
-  }
-  .topnav input[type=text] {
-    border: 1px solid #ccc;
-  }
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: 0.3s;
 }
+
+#searchBar:focus {
+    border-color: #a94cf2;
+    box-shadow: 0 0 10px rgba(169, 76, 242, 0.5);
+}
+
+/* Style champion links */
+.champion-item {
+    display: block;
+    text-decoration: none;
+    color: #a94cf2;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 8px 0;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.champion-item:hover {
+    color: #fc67fa;
+    transform: scale(1.1);
+}
+
+/* Add some padding to the container */
+.champion-list {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
