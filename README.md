@@ -50,7 +50,6 @@ Y = Yes, N = No, IP = In-Progress
 
 ## eSports [IP]
 
-    -
     -   Left hand side will be filtered by eSports teams
         -   Upon clicking, user will be taken to relative content of their chosen team.
     -   This weeks content
