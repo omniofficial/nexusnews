@@ -35,28 +35,54 @@
             <h2>League of Legends Champions</h2>
             <h3>Find sophisticated guides for each champion</h3>
 
-            <div class="topnav">
   
-  <input type="text" placeholder="Search..">
+  <script>
+    document.querySelector("#searchBar").addEventListener("input", function () {
+        const query = this.value.toLowerCase();
+        const champions = document.querySelectorAll(".champion-item");
+        
+        champions.forEach(champion => {
+            const name = champion.textContent.toLowerCase();
+            champion.style.display = name.includes(query) ? "" : "none";
+        });
+    });
+    </script>
+<div class="topnav">
+
+    <input id="searchBar" type="text" placeholder="Search champions...">
+
 </div>
 
-            <ul>
-                <li><a href="alista.html" target="_blank">Alista</a></li>
-                <li><a href="malphite.html" target="_blank">Malphite</a></li>
-                <li><a href="amumu.html" target="_blank">Amumu</a></li>
-                <li><a href="annie.html" target="_blank">Annie</a></li>
-                <li><a href="janna.html" target="_blank">Janna</a></li>
-                <li><a href="jax.html" target="_blank">Jax</a></li>
-                <li><a href="kayle.html" target="_blank">Kayle</a></li>
-                <li><a href="master yi.html" target="_blank"><Master Yi/a></li>
-                <li><a href="nasus.html" target="_blank">Nasus</a></li>
-                <li><a href="ryze.html" target="_blank">Ryze</a></li>
-                <li><a href="soraka.html" target="_blank">Soraka</a></li>
-                    <li><a href="teemo.html" target="_blank">Teemo</a></li>
-                    <li><a href="tryndamere.html" target="_blank">Tryndamere</a></li>
-                    <li><a href="wukong.html" target="_blank">Wukong</a></li>
-                
-            </ul>
-        </div>
+<div class="champion-list">
+
+    <a href="alista.html" class="champion-item">Alista</a>
+
+    <a href="malphite.html" class="champion-item">Malphite</a>
+
+    <a href="amumu.html" class="champion-item">Amumu</a>
+
+    <a href="annie.html" class="champion-item">Annie</a>
+
+    <a href="janna.html" class="champion-item">Janna</a>
+
+    <a href="jax.html" class="champion-item">Jax</a>
+
+    <a href="kayle.html" class="champion-item">Kayle</a>
+
+    <a href="nasus.html" class="champion-item">Nasus</a>
+
+    <a href="ryze.html" class="champion-item">Ryze</a>
+
+    <a href="soraka.html" class="champion-item">Soraka</a>
+
+    <a href="teemo.html" class="champion-item">Teemo</a>
+
+    <a href="tryndamere.html" class="champion-item">Tryndamere</a>
+
+    <a href="wukong.html" class="champion-item">Wukong</a>
+
+</div>
+
+
     </body>
 </html>
