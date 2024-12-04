@@ -265,16 +265,16 @@ li {
 
 /* Style the search bar */
 #searchBar {
-    width: 60%;
-    padding: 10px;
-    margin: 20px auto;
+    width: 100%;
+    padding: 10px 40px 10px 10px; /* Add right padding for the icon */
+    margin: 0 auto;
     display: block;
     font-size: 16px;
     border: 2px solid #ccc;
     border-radius: 8px;
     outline: none;
     transition: 0.3s;
-}
+  }
 
 #searchBar:focus {
     border-color: #a94cf2;
@@ -305,3 +305,30 @@ li {
     text-align: left;
 }
 
+/* Style the search container */
+.search-container {
+    position: relative;
+    width: 60%;
+    margin: 20px auto;
+  }
+
+  /* Style the search icon */
+.search-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: #ccc;
+    pointer-events: none; /* Ensure the icon does not block input clicks */
+  }
+  
+  #searchBar:focus + .search-icon {
+    color: #a94cf2;
+  }
+
+  @media (max-width: 768px) {
+    .search-container {
+      width: 90%;
+    }
+  }

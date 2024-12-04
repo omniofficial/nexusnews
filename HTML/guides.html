@@ -35,11 +35,10 @@
             <h2>League of Legends Champions</h2>
             <h3>Find sophisticated guides for each champion</h3>
 
-            <div class="topnav">
-
+            <div class="search-container">
                 <input id="searchBar" type="text" placeholder="Search champions...">
-            
-            </div>
+                <span class="search-icon">🔍</span>
+              </div>
 
             <div class="champion-list">
 
@@ -72,20 +71,15 @@
             </div>
 
         <script>
-            document
-                .querySelector("#searchBar")
-                .addEventListener("input", function () {
-                    const query = this.value.toLowerCase();
-                    const champions =
-                        document.querySelectorAll(".champion-item");
+            document.querySelector("#searchBar").addEventListener("input", function () {
+  const query = this.value.toLowerCase();
+  const champions = document.querySelectorAll(".champion-item");
 
-                    champions.forEach((champion) => {
-                        const name = champion.textContent.toLowerCase();
-                        champion.style.display = name.includes(query)
-                            ? ""
-                            : "none";
-                    });
-                });
+  champions.forEach((champion) => {
+    const name = champion.textContent.toLowerCase();
+    champion.style.display = name.includes(query) ? "" : "none";
+  });
+});
         </script>
     </body>
 </html>
