@@ -35,6 +35,7 @@
             <h2>League of Legends Champions</h2>
             <h3>Find sophisticated guides for each champion</h3>
 
+<<<<<<< HEAD
             <div class="topnav">
                 <input type="text" placeholder="Search.." />
             </div>
@@ -58,5 +59,56 @@
                 <li><a href="/HTML/champions/wukong.html" target="_blank">Wukong</a></li>
             </ul>
         </div>
+=======
+  
+  <script>
+    document.querySelector("#searchBar").addEventListener("input", function () {
+        const query = this.value.toLowerCase();
+        const champions = document.querySelectorAll(".champion-item");
+        
+        champions.forEach(champion => {
+            const name = champion.textContent.toLowerCase();
+            champion.style.display = name.includes(query) ? "" : "none";
+        });
+    });
+    </script>
+<div class="topnav">
+
+    <input id="searchBar" type="text" placeholder="Search champions...">
+
+</div>
+
+<div class="champion-list">
+
+    <a href="alista.html" class="champion-item">Alista</a>
+
+    <a href="malphite.html" class="champion-item">Malphite</a>
+
+    <a href="amumu.html" class="champion-item">Amumu</a>
+
+    <a href="annie.html" class="champion-item">Annie</a>
+
+    <a href="janna.html" class="champion-item">Janna</a>
+
+    <a href="jax.html" class="champion-item">Jax</a>
+
+    <a href="kayle.html" class="champion-item">Kayle</a>
+
+    <a href="nasus.html" class="champion-item">Nasus</a>
+
+    <a href="ryze.html" class="champion-item">Ryze</a>
+
+    <a href="soraka.html" class="champion-item">Soraka</a>
+
+    <a href="teemo.html" class="champion-item">Teemo</a>
+
+    <a href="tryndamere.html" class="champion-item">Tryndamere</a>
+
+    <a href="wukong.html" class="champion-item">Wukong</a>
+
+</div>
+
+
+>>>>>>> 3c56f1f9040014b66418d1fe484a7324c15f5278
     </body>
 </html>
