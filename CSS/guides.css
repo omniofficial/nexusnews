@@ -332,3 +332,99 @@ li {
       width: 90%;
     }
   }
+
+
+
+
+/* General Footer Styles */
+.game-footer {
+    background-color: #1c1a24;
+    color: #fff;
+    padding: 30px 0;
+    font-family: Arial, sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo .logo {
+    width: 50px; /* Adjust logo size */
+    margin-right: 15px;
+}
+
+.footer-logo p {
+    font-size: 14px;
+}
+
+.footer-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin: 10px 0;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #f39c12; /* Gold hover effect */
+}
+
+.footer-social .social {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.footer-social a {
+    color: #fff;
+    font-size: 30px; /* Adjust size of the icons */
+    transition: color 0.3s, transform 0.3s ease;
+}
+
+.footer-social a:hover {
+    color: #f39c12; /* Gold hover effect */
+    transform: scale(1.1);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-logo {
+        margin-bottom: 20px;
+    }
+
+    .footer-links ul {
+        text-align: center;
+    }
+
+    .footer-social {
+        margin-top: 20px;
+    }
+
+    .footer-social .social {
+        justify-content: center;
+        gap: 10px;
+    }
+}
