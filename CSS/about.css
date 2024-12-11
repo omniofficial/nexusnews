@@ -1,4 +1,3 @@
-/* RICKY WORK ON THIS */
 @font-face {
     font-family: "headbarFont";
     src: url(/fontstest/Poppins/Poppins-Regular.ttf);
@@ -56,11 +55,6 @@ body {
     letter-spacing: 0.08em;
     padding: 7px 13px;
     border-radius: 3px;
-    /* border: 1px solid #fff;
-    display: inline-block;
-    padding: 14px 70px;
-    border-radius: 50px;
-    margin-top: 20px; */
 }
 
 nav {
@@ -250,10 +244,10 @@ a:hover {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    min-height: 450px; /* Set a minimum height */
-    margin-top: 50px; /* Adjust spacing from top */
+    min-height: 450px;
+    margin-top: 50px;
     display: flex;
-    align-items: center; /* Centers content vertically */
+    align-items: center;
     justify-content: center;
     color: #ffffff;
     position: relative;
@@ -273,7 +267,7 @@ a:hover {
 .textAreaColumn1 h5 {
     margin: 0;
     color: #ffffff;
-    font-size: 29px; /* Adjusted for better readability */
+    font-size: 29px;
     text-align: center;
     z-index: 2;
     font-family: "h1Font", Arial, sans-serif;
@@ -287,7 +281,7 @@ a:hover {
 
 .textAreaColumn2 {
     background-color: #000000;
-    padding: 30px 20px; /* Added padding for spacing */
+    padding: 30px 20px;
     display: flex;
     justify-content: center;
     align-items: center;  
@@ -307,10 +301,10 @@ a:hover {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two equal columns */
+    grid-template-columns: repeat(2, 1fr);
     gap: 40px;
-    max-width: 1200px; /* Sets a maximum container width */
-    margin: 20px auto; /* Centers the container */
+    max-width: 1200px;
+    margin: 20px auto;
     padding: 20px;
     box-sizing: border-box;
     font-family: "h1Font", Arial, sans-serif;
@@ -325,10 +319,10 @@ a:hover {
 .post-box {
     background-color: #1e1e2e;
     border: 1px solid #444;
-    padding: 20px; /* Added padding */
+    padding: 20px;
     border-radius: 10px;
     text-align: center;
-    transition: transform 0.3s ease; /* Smooth hover effect */
+    transition: transform 0.3s ease;
 }
 .post-box:hover {
     transform: scale(1.05);
@@ -336,10 +330,10 @@ a:hover {
 h3 {
     color: #f7b731;
     margin-bottom: 10px;
-    font-size: 24px; /* Adjusted for readability */
+    font-size: 24px;
 }
 p {
     color: #cccccc;
-    font-size: 16px; /* Standardized text size */
-    line-height: 1.5; /* Improved readability */
+    font-size: 16px;
+    line-height: 1.5;
 }
